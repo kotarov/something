@@ -14,12 +14,16 @@
       "value": "pleased"
     },
     {
+      "trait_type": "pol",
+      "value": "Mijki"
+    },
+    {
       "trait_type": "level",
       "value": 2
     },
     {
       "trait_type": "stamina",
-      "value": 2.3
+      "value": 2.5
     },
     {
       "trait_type": "personality",
@@ -41,7 +45,7 @@
       "value": 1
     }
   ],
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "description": "Friendly OpenSea Creature, created by Svetlio that enjoys long swims in the ocean.",
   "external_url": "https://example.com/?token_id=6",
   "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/6.png",
   "name": "Herbie Starbelly"
