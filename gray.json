@@ -1,0 +1,15 @@
+{
+  "name": "Grey Stone",
+  "description": "Grey stone found at the beach",
+  "image": "https://www.saundersls.com/wp-content/uploads/2014/09/Surge_Grey_Stone.png",
+  "attributes": [
+      {
+      "trait_type": "Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Value",
+      "value": 7
+    }
+      ]
+}
